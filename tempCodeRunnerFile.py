@@ -1,1 +1,1 @@
-array1<30
+house 1
